@@ -1,12 +1,12 @@
 <template>
   <div class="hello">
-    
+    <h2>This Is Menu</h2>
   </div>
 </template>
 
 <script>
 export default {
-  name: '',
+  name: 'Menu',
   props: {
     msg: String
   }
