@@ -14,10 +14,11 @@ export default {
     }
   },
   components: {
+
   }
 }
 </script>
 
 <style>
-
+@import'~bootstrap/dist/css/bootstrap.css'
 </style>
